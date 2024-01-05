@@ -41,7 +41,7 @@ layout: default
 - **International Collegiate Programming Contest (ICPC) (2015-2021)**
   - Champion of the state of Santa Catarina in 2017/2018/2019
   - Regional Champion from the South of Brazil in 2018
-  - 10° place out of 1178 teams from Latin America in the \textsc{ICPC-Regionals} 2020
+  - 10° place out of 1178 teams from Latin America in the **ICPC-Regionals** 2020
   - Performance-based scholarship for boot camps:
     - Winter School Training ICPC at UFRGS by UDESC
     - Autumn School Training ICPC at USP by UDESC
@@ -51,9 +51,9 @@ layout: default
   - Manager of the project (2017-2020)
 
 - **Representative/Administrative positions in the University (2018/2020/2021)**
-  - Representative of the Undergraduates in the collegiate of \textsc{Computer Science Department (DCC-UDESC)} (2018)
+  - Representative of the Undergraduates in the collegiate of **Computer Science Department (DCC-UDESC)** (2018)
   - President of the Academic Center of Computer Science (2018)
-  - Representative of the Graduates in the collegiate of \textsc{Institute of Computing (IC-Unicamp)} (2020/2021)
+  - Representative of the Graduates in the collegiate of **Institute of Computing (IC-Unicamp)** (2020/2021)
 
 - **Scientific Initiations & Scholarships**
   - Scholarship in the project Maratona de Programação (2016)
