@@ -2,122 +2,76 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Adilson Luis Jönck Junior
 
-[Link to another page](./another-page.html).
+## Personal Data
 
-There should be whitespace between paragraphs.
+- **Email:** [jonckjuniorr@gmail.com](mailto:jonckjuniorr@gmail.com)
+- **GitHub:** [github.com/jonckjunior](https://github.com/jonckjunior)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+### Universidade Do Estado de Santa Catarina - UDESC, Joinville
+- **Undergrad in Computer Science**  
+  December 2019
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Universidade Estadual de Campinas - UNICAMP, Campinas
+- **Masters in Computer Science**  
+  December 2023
 
-## Header 2
+## Professional Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Samsung Research and Development - Brazil
+- **Internship in Artificial Intelligence**  
+  March 2019 - July 2019  
+  _Spearheaded the analysis of input data for neural networks, enhancing the data gathering features using Python and various data analysis libraries._
 
-### Header 3
+### SAP - Brazil
+- **Software Developer**  
+  August 2019 - January 2020  
+  _Contributed to software development with a focus on design, coding, and quality assurance, utilizing technologies like GO, Kubernetes, and Docker. Actively involved in issue analysis and resolution for both existing and new codebases._
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Faire - Canada
+- **Backend Engineer**  
+  January 2022 - November 2023  
+  _Focused on designing and implementing scalable backend solutions, ensuring system performance, availability, and security. Participated in code reviews and system architecture discussions, contributing to the technological advancement of the company._
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## University Activities
 
-#### Header 4
+- **International Collegiate Programming Contest (ICPC) (2015-2021)**
+  - Champion of the state of Santa Catarina in 2017/2018/2019
+  - Regional Champion from the South of Brazil in 2018
+  - 10° place out of 1178 teams from Latin America in the \textsc{ICPC-Regionals} 2020
+  - Performance-based scholarship for boot camps:
+    - Winter School Training ICPC at UFRGS by UDESC
+    - Autumn School Training ICPC at USP by UDESC
+    - Summer School Training ICPC at UNICAMP by UDESC/SBC (Brazilian computer society)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Co-founder of BRUTE - Extension project of an advanced study center in Competitive Programming (2017)**
+  - Manager of the project (2017-2020)
 
-##### Header 5
+- **Representative/Administrative positions in the University (2018/2020/2021)**
+  - Representative of the Undergraduates in the collegiate of \textsc{Computer Science Department (DCC-UDESC)} (2018)
+  - President of the Academic Center of Computer Science (2018)
+  - Representative of the Graduates in the collegiate of \textsc{Institute of Computing (IC-Unicamp)} (2020/2021)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- **Scientific Initiations & Scholarships**
+  - Scholarship in the project Maratona de Programação (2016)
+  - Scientific Initiation in Operational Research (2016)
+  - Scholarship in the project Colméia (2017)
+  - Scientific Initiation in Automated Theorem Proving (2017)
+  - Teaching Assistant - Discrete mathematics (2018)
+  - Scholarship in Master's studies at IC-UNICAMP (2020-2021)
 
-###### Header 6
+## Languages
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+- **Portuguese:** Native Speaker
+- **English:** Fluent
+- **French:** Intermediate
 
-### There's a horizontal rule below this.
+## Interests and Activities
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Technology, Programming, Competitive Programming
+- Discrete Math, Numerical Analysis, Theory of Computation, Set Theory
+- Graph Theory, Operational Research, Database
+- Music, Philosophy, Languages
