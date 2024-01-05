@@ -10,7 +10,6 @@ I'm Jönck, a passionate computer science professional with a rich background in
 
 - `index.md`: This file contains the latest version of my resume in Markdown format. It's regularly updated to reflect my most recent experiences and skills.
 - `images/`: This directory contains any images or graphics related to my resume or projects.
-- `docs/`: Here, you'll find additional documentation or supporting files that provide more context to my professional journey.
 
 ## Viewing the Resume
 
