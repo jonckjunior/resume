@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 description: I'm a computer scientist. My passions are games, puzzles (mostly the ones involving math), music, and story-telling.
 logo: /assets/img.JPG
+title: Adilson Luis Jönck Junior
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
