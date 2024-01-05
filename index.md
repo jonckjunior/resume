@@ -71,7 +71,7 @@ layout: default
 
 ## Languages
 
-- **Portuguese:** Native Speaker
+- **Portuguese:** Fluent
 - **English:** Fluent
 - **French:** Intermediate
 
